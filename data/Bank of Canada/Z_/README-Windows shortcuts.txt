@@ -1,0 +1,1 @@
+This folder contains Windows shortcuts that only work on the local machine. 
