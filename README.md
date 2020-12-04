@@ -5,5 +5,5 @@ Useful notebooks &amp; code for systemic risk models, data access, visualization
 * Static rendering in github (view only)
 * Install Anaconda & use Jupyter or Jupyter Lab in the browser
 * Visual Studio Code + Jupyter extension
-* Github codespaces (cloud / browser)
-* Azure Machine Learning notebooks (cloud / browser)
+* Github codespaces (cloud / browser) (GitHub account required?)
+* Azure Machine Learning notebooks (cloud / browser) (Azure subscription required?)
